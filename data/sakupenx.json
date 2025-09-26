@@ -1,1 +1,12 @@
-
+{
+    "id": 184,
+    "name": "Sakupen X",
+    "author": "tipo8",
+    "creators": ["tipo8"],
+    "verifier": "masloo",
+    "verification": "#",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+    ]
+}
