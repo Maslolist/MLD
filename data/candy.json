@@ -1,1 +1,12 @@
-
+{
+    "id": 116,
+    "name": "Candy",
+    "author": "v1s1onn",
+    "creators": ["v1s1onn"],
+    "verifier": "v1s1onn",
+    "verification": "#",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+    ]
+}
