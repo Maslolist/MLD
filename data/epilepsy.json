@@ -3,6 +3,7 @@
     "name": "Epilepsy Warning",
       "author": "susypusi",
     "verifier": "susypusi",
+    "creators":["susypusi"],
     "verification": "#",
     "percentToQualify": "100",
     "password": "none",
