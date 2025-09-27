@@ -1,1 +1,13 @@
+{
+    "id": 103,
+    "name": "Astral",
+      "author": "masloo",
+    "verifier": "masloo",
+    "creators":["masloo"],
+    "verification": "#",
+    "percentToQualify": "100",
+    "password": "none",
+    "records": [
+    ]
+}
 
